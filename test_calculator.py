@@ -11,4 +11,4 @@ def test_multiply():
   assert multiply(10,20) == 200
   
 def test_divide():
-  assert divide(10,20) == 0,5
+  assert divide(10,20) == 0.5
